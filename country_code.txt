@@ -1,0 +1,249 @@
+アイスランド	Iceland	352
+アイルランド	Ireland	372
+アゼルバイジャン	Azerbaijan	031
+アフガニスタン	Afghanistan	004
+アメリカ合衆国	United States	840
+アメリカ領ヴァージン諸島	Virgin Islands, U.S.	850
+アメリカ領サモア	American Samoa	016
+アラブ首長国連邦	United Arab Emirates	784
+アルジェリア	Algeria	012
+アルゼンチン	Argentina	032
+アルバ	Aruba	533
+アルバニア	Albania	008
+アルメニア	Armenia	051
+アンギラ	Anguilla	660
+アンゴラ	Angola	024
+アンティグア・バーブーダ	Antigua and Barbuda	028
+アンドラ	Andorra	020
+イエメン	Yemen	887
+イギリス	United Kingdom	826
+イギリス領インド洋地域	British Indian Ocean Territory	086
+イギリス領ヴァージン諸島	Virgin Islands, British	092
+イスラエル	Israel	376
+イタリア	Italy	380
+イラク	Iraq	368
+イラン・イスラム共和国	Iran, Islamic Republic of	364
+インド	India	356
+インドネシア	Indonesia	360
+ウォリス・フツナ	Wallis and Futuna	876
+ウガンダ	Uganda	800
+ウクライナ	Ukraine	804
+ウズベキスタン	Uzbekistan	860
+ウルグアイ	Uruguay	858
+エクアドル	Ecuador	218
+エジプト	Egypt	818
+エストニア	Estonia	233
+エチオピア	Ethiopia	231
+エリトリア	Eritrea	232
+エルサルバドル	El Salvador	222
+オーストラリア	Australia	036
+オーストリア	Austria	040
+オーランド諸島	Åland Islands	248
+オマーン	Oman	512
+オランダ	Netherlands	528
+ガーナ	Ghana	288
+カーボベルデ	Cape Verde	132
+ガーンジー	Guernsey	831
+ガイアナ	Guyana	328
+カザフスタン	Kazakhstan	398
+カタール	Qatar	634
+合衆国領有小離島	United States Minor Outlying Islands	581
+カナダ	Canada	124
+ガボン	Gabon	266
+カメルーン	Cameroon	120
+ガンビア	Gambia	270
+カンボジア	Cambodia	116
+北マリアナ諸島	Northern Mariana Islands	580
+ギニア	Guinea	324
+ギニアビサウ	Guinea-Bissau	624
+キプロス	Cyprus	196
+キューバ	Cuba	192
+キュラソー	Curaçao	531
+ギリシャ	Greece	300
+キリバス	Kiribati	296
+キルギス	Kyrgyzstan	417
+グアテマラ	Guatemala	320
+グアドループ	Guadeloupe	312
+グアム	Guam	316
+クウェート	Kuwait	414
+クック諸島	Cook Islands	184
+グリーンランド	Greenland	304
+クリスマス島	Christmas Island	162
+グルジア	Georgia	268
+グレナダ	Grenada	308
+クロアチア	Croatia	191
+ケイマン諸島	Cayman Islands	136
+ケニア	Kenya	404
+コートジボワール	Côte d'Ivoire	384
+ココス（キーリング）諸島	Cocos (Keeling) Islands	166
+コスタリカ	Costa Rica	188
+コモロ	Comoros	174
+コロンビア	Colombia	170
+コンゴ共和国	Congo	178
+コンゴ民主共和国	Congo, the Democratic Republic of the	180
+サウジアラビア	Saudi Arabia	682
+サウスジョージア・サウスサンドウィッチ諸島	South Georgia and the South Sandwich Islands	239
+サモア	Samoa	882
+サントメ・プリンシペ	Sao Tome and Principe	678
+サン・バルテルミー	Saint Barthélemy	652
+ザンビア	Zambia	894
+サンピエール島・ミクロン島	Saint Pierre and Miquelon	666
+サンマリノ	San Marino	674
+サン・マルタン（フランス領）	Saint Martin (French part)	663
+シエラレオネ	Sierra Leone	694
+ジブチ	Djibouti	262
+ジブラルタル	Gibraltar	292
+ジャージー	Jersey	832
+ジャマイカ	Jamaica	388
+シリア・アラブ共和国	Syrian Arab Republic	760
+シンガポール	Singapore	702
+シント・マールテン（オランダ領）	Sint Maarten (Dutch part)	534
+ジンバブエ	Zimbabwe	716
+スイス	Switzerland	756
+スウェーデン	Sweden	752
+スーダン	Sudan	729
+スヴァールバル諸島およびヤンマイエン島	Svalbard and Jan Mayen	744
+スペイン	Spain	724
+スリナム	Suriname	740
+スリランカ	Sri Lanka	144
+スロバキア	Slovakia	703
+スロベニア	Slovenia	705
+スワジランド	Swaziland	748
+セーシェル	Seychelles	690
+赤道ギニア	Equatorial Guinea	226
+セネガル	Senegal	686
+セルビア	Serbia	688
+セントクリストファー・ネイビス	Saint Kitts and Nevis	659
+セントビンセントおよびグレナディーン諸島	Saint Vincent and the Grenadines	670
+セントヘレナ・アセンションおよびトリスタンダクーニャ	Saint Helena, Ascension and Tristan da Cunha	654
+セントルシア	Saint Lucia	662
+ソマリア	Somalia	706
+ソロモン諸島	Solomon Islands	090
+タークス・カイコス諸島	Turks and Caicos Islands	796
+タイ	Thailand	764
+大韓民国	Korea, Republic of	410
+台湾（台湾省/中華民国）	Taiwan, Province of China	158
+タジキスタン	Tajikistan	762
+タンザニア	Tanzania, United Republic of	834
+チェコ	Czech Republic	203
+チャド	Chad	148
+中央アフリカ共和国	Central African Republic	140
+中国	China	156
+チュニジア	Tunisia	788
+朝鮮民主主義人民共和国	Korea, Democratic People's Republic of	408
+チリ	Chile	152
+ツバル	Tuvalu	798
+デンマーク	Denmark	208
+ドイツ	Germany	276
+トーゴ	Togo	768
+トケラウ	Tokelau	772
+ドミニカ共和国	Dominican Republic	214
+ドミニカ国	Dominica	212
+トリニダード・トバゴ	Trinidad and Tobago	780
+トルクメニスタン	Turkmenistan	795
+トルコ	Turkey	792
+トンガ	Tonga	776
+ナイジェリア	Nigeria	566
+ナウル	Nauru	520
+ナミビア	Namibia	516
+南極	Antarctica	010
+ニウエ	Niue	570
+ニカラグア	Nicaragua	558
+ニジェール	Niger	562
+日本	Japan	392
+西サハラ	Western Sahara	732
+ニューカレドニア	New Caledonia	540
+ニュージーランド	New Zealand	554
+ネパール	Nepal	524
+ノーフォーク島	Norfolk Island	574
+ノルウェー	Norway	578
+ハード島とマクドナルド諸島	Heard Island and McDonald Islands	334
+バーレーン	Bahrain	048
+ハイチ	Haiti	332
+パキスタン	Pakistan	586
+バチカン市国	Holy See (Vatican City State)	336
+パナマ	Panama	591
+バヌアツ	Vanuatu	548
+バハマ	Bahamas	044
+パプアニューギニア	Papua New Guinea	598
+バミューダ	Bermuda	060
+パラオ	Palau	585
+パラグアイ	Paraguay	600
+バルバドス	Barbados	052
+パレスチナ	Palestinian Territory, Occupied	275
+ハンガリー	Hungary	348
+バングラデシュ	Bangladesh	050
+東ティモール	Timor-Leste	626
+ピトケアン	Pitcairn	612
+フィジー	Fiji	242
+フィリピン	Philippines	608
+フィンランド	Finland	246
+ブータン	Bhutan	064
+ブーベ島	Bouvet Island	074
+プエルトリコ	Puerto Rico	630
+フェロー諸島	Faroe Islands	234
+フォークランド（マルビナス）諸島	Falkland Islands (Malvinas)	238
+ブラジル	Brazil	076
+フランス	France	250
+フランス領ギアナ	French Guiana	254
+フランス領ポリネシア	French Polynesia	258
+Flag of the French Southern and Antarctic Lands.svg フランス領南方・南極地域	French Southern Territories	260
+ブルガリア	Bulgaria	100
+ブルキナファソ	Burkina Faso	854
+ブルネイ・ダルサラーム	Brunei Darussalam	096
+ブルンジ	Burundi	108
+ベトナム	Viet Nam	704
+ベナン	Benin	204
+ベネズエラ・ボリバル共和国	Venezuela, Bolivarian Republic of	862
+ベラルーシ	Belarus	112
+ベリーズ	Belize	084
+ペルー	Peru	604
+ベルギー	Belgium	056
+ポーランド	Poland	616
+ボスニア・ヘルツェゴビナ	Bosnia and Herzegovina	070
+ボツワナ	Botswana	072
+ボネール、シント・ユースタティウスおよびサバ	Bonaire, Saint Eustatius and Saba	535
+ボリビア多民族国	Bolivia, Plurinational State of	068
+ポルトガル	Portugal	620
+香港	Hong Kong	344
+ホンジュラス	Honduras	340
+マーシャル諸島	Marshall Islands	584
+マカオ	Macao	446
+マケドニア旧ユーゴスラビア共和国	Macedonia, the former Yugoslav Republic of	807
+マダガスカル	Madagascar	450
+マヨット	Mayotte	175
+マラウイ	Malawi	454
+マリ	Mali	466
+マルタ	Malta	470
+マルティニーク	Martinique	474
+マレーシア	Malaysia	458
+マン島	Isle of Man	833
+ミクロネシア連邦	Micronesia, Federated States of	583
+南アフリカ	South Africa	710
+南スーダン	South Sudan	728
+ミャンマー	Myanmar	104
+メキシコ	Mexico	484
+モーリシャス	Mauritius	480
+モーリタニア	Mauritania	478
+モザンビーク	Mozambique	508
+モナコ	Monaco	492
+モルディブ	Maldives	462
+モルドバ共和国	Moldova, Republic of	498
+モロッコ	Morocco	504
+モンゴル	Mongolia	496
+モンテネグロ	Montenegro	499
+モントセラト	Montserrat	500
+ヨルダン	Jordan	400
+ラオス人民民主共和国	Lao People's Democratic Republic	418
+ラトビア	Latvia	428
+リトアニア	Lithuania	440
+リビア	Libya	434
+リヒテンシュタイン	Liechtenstein	438
+リベリア	Liberia	430
+ルーマニア	Romania	642
+ルクセンブルク	Luxembourg	442
+ルワンダ	Rwanda	646
+レソト	Lesotho	426
+レバノン	Lebanon	422
+レユニオン	Réunion	638
+ロシア連邦	Russian Federation	643
